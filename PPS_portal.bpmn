@@ -7,7 +7,7 @@
     <bpmn:categoryValue id="CategoryValue_04fjx8h" value="Этап I. Выбор темы" />
   </bpmn:category>
   <bpmn:category id="Category_06nnxpv">
-    <bpmn:categoryValue id="CategoryValue_0f4nfcx" value="Этап III. Исполнение по Событиям" />
+    <bpmn:categoryValue id="CategoryValue_0f4nfcx" value="Этап III. Исполнение по событиям" />
   </bpmn:category>
   <bpmn:category id="Category_1aqi15c">
     <bpmn:categoryValue id="CategoryValue_17qsnd8" value="Этап IV. Размещение результатов" />
